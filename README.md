@@ -9,8 +9,8 @@
 127.0.0.1  url
 ```
 
-2. Clone this repo and run `yarn` to install dependencies. If you do not currently have yarn installed, you will need to do that first.
-3. Copy the code snippet from Touchpoint and add it to the [header.ejs](https://github.com/vcilabs/touchpoint-sample-sdk/blob/ef55b7f9525fec7226b4c4638403e02f138ae330/views/header.ejs#L38) file. 
+3. Clone this repo and run `yarn` to install dependencies. If you do not currently have yarn installed, you will need to do that first.
+4. Copy the code snippet from Touchpoint and add it to the [header.ejs](https://github.com/vcilabs/touchpoint-sample-sdk/blob/ef55b7f9525fec7226b4c4638403e02f138ae330/views/header.ejs#L38) file. 
 
 The Touchpoint SDK uses HTTPS so you will need to generate an SSL Certificate. In your terminal, run the following commands:
 
